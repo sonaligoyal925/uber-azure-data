@@ -11,6 +11,5 @@ wheels/
 
 .env
 main.py
-README.md
 .python-version
 pyproject.toml
